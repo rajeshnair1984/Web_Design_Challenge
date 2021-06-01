@@ -2,7 +2,7 @@
 
 # Summary
 
-Website deployed and be viewed here: https://rajeshnair1984.github.io/Web_Design_Challenge/index.html
+Website deployed and be viewed here: https://rajeshnair1984.github.io/Web_Design_Challenge/WebVisualizations/index.html
 
 ## Screenshots
 
